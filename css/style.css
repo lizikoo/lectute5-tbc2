@@ -97,17 +97,61 @@ h3 {
 .card-1 {
  width: 500px;
  display: inline-block;
- height:210px ;
+ height:230px ;
  background: #E7E7E7;
  margin-right: 44px;
+ padding: 20px;
+ vertical-align: top;
 
 }
 
 .card-2{
 
 	 width: 500px;
-	 height: 210px;
+	 height: 230px;
 	 display: inline-block;
 	 background: #E7E7E7;
+	 padding: 20px;
+	 vertical-align: top;
+	 
 
+}
+h4 {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #7E8898;
+    
+    width: 330px;
+	height: 95px;
+	padding-right: 15px;
+	padding-bottom: 32px;
+	border: 2px dotted red;
+}
+
+
+.logo2 {
+	width: 77px;
+	  height: 77px;
+	 padding-top: 74px
+
+}
+
+
+h1 {
+	display: inline-block;
+	width: 307px;
+	height: 23px;
+
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 23px;
+
+	color: #3F4145;
+	padding-bottom: 21px;
 }
