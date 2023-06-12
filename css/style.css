@@ -1,0 +1,113 @@
+body{
+	padding: 54px 52px;
+}
+
+header {
+	margin-bottom: 50px ;
+}
+
+
+.logo{
+	vertical-align: middle;
+	margin-right: 60px;
+}
+
+
+
+nav {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	margin-right: 87px;
+}
+
+.a1{
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+
+}
+.a3  {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	color: #8D81FF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.container{
+	width: 1052px;
+	margin: 0 auto;
+}
+.s-1 {
+	margin-bottom: 120px;
+}
+
+.info-div {
+	margin-bottom: 26px;
+}
+h2{
+	font-family: 'FiraGO';
+	display: inline-block;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+	margin-right: 18px;
+	vertical-align: middle;
+
+}
+.stick{
+	display: inline-block;
+	margin-right: 18px;
+	width: 2px;
+	height: 20px;
+	background-color: #5012D5;
+	vertical-align: middle;
+}
+
+h3 {
+	font-family: 'FiraGO';
+	display: inline-block;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+	vertical-align: middle;
+
+}
+
+.card-1 {
+ width: 500px;
+ display: inline-block;
+ height:210px ;
+ background: #E7E7E7;
+ margin-right: 44px;
+
+}
+
+.card-2{
+
+	 width: 500px;
+	 height: 210px;
+	 display: inline-block;
+	 background: #E7E7E7;
+
+}
