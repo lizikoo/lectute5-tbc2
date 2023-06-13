@@ -41,9 +41,131 @@ li {
 
 
 
+.bluebox {
+	width: 50px;
+	height: 50px;
+
+	background: #5012D5;
+	
+	font-family: 'Helvetica';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 28px;
+	color: #84FF81;
+	padding: 11px;
+	margin-bottom: 18px;
+
+}
+.myh3{
+	margin-bottom: 9px;
+
+}
+
+
+.my3 {
+    font-family: "BPG Nino Mkhedruli";
+	font-style: italic;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 32px;
+	color: #8D81FF;
+
+}
+
+
+.mineh4{
+     font-family: 'GL Tatishvili Metal';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 24px;
+	color: #4E6FAE;
+	margin-bottom: 13px;
+
+}
+
+.pic1{
+	vertical-align: top;
+	margin-bottom: 155px;
+}
+
+.para{
+	display: inline-block;
+	width: 778px;
+	
+	font-family: 'GL Kirovi';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	margin-left: 66px;
+    vertical-align: top;
+}
+
+.pic2 {
+	margin-bottom: 155px;
+}
+
+.pic3{
+	margin-bottom: 32px;
+}
+
+.para1{
+    width: 1021px;
+	height: 148px;
+
+	font-family: 'GL Kirovi';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	margin-bottom: 143px;
+
+}
+
+
+.footerimg {
+	margin-right: 41px;
+}
+.footerimg1 {
+	margin-right: 41px;
+}
 
 
 
+
+
+
+
+
+.b1{
+
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	color: #8D81FF;
+
+}
+
+.b3{
+
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+
+}
+
+.head{
+	margin-bottom: 97px;
+}
 
 
 
@@ -116,7 +238,7 @@ h3 {
 	 
 
 }
-h4 {
+.meh4 {
     display: inline-block;
     font-family: 'Roboto', sans-serif;
 	font-style: normal;
@@ -155,3 +277,77 @@ h1 {
 	color: #3F4145;
 	padding-bottom: 21px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.body{
+	padding: 54px 52px;
+}
+
+header {
+	margin-bottom: 50px ;
+}
+
+
+.logo{
+	vertical-align: middle;
+	margin-right: 60px;
+}
+
+
+
+nav {
+	display: inline-block;
+}
+
+li {
+	display: inline-block;
+	margin-right: 87px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.c1 {
+    font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	color: #8D81FF;
+
+}
+
+
+.c3{
+	font-family: 'FiraGO';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 26px;
+	line-height: 31px;
+	color: #4E6FAE;
+
+}
+
+.mynav{
+	display: inline-block;
+}
+
